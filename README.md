@@ -7,8 +7,8 @@
   <a target="_blank" href="https://gitee.com/mengweijin/china-administrative-divisions">
 		<img src="https://img.shields.io/badge/repo-码云 Gitee-purple" />
 	</a>
-	<a target="_blank" href="https://www.npmjs.com/package/china-administrative-divisions">
-		<img src="https://img.shields.io/npm/v/china-administrative-divisions.svg" />
+	<a target="_blank" href="https://www.npmjs.com/package/china-administrative-divisions-json">
+		<img src="https://img.shields.io/npm/v/china-administrative-divisions-json.svg" />
 	</a>
   <a target="_blank" href="https://github.com/mengweijin/china-administrative-divisions/blob/master/LICENSE">
 		<img src="https://img.shields.io/badge/license-Apache2.0-blue.svg" />
@@ -28,6 +28,8 @@
 </p>
 
 中国行政区划（省、市、区/县）JSON 数据。
+
+说明：版本号为最后更新日期。比如版本号：2026.1.1 表示 2026 年 1 月 1 日更新的数据。
 
 ## 前端使用
 

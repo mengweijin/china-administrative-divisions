@@ -28,15 +28,18 @@ data/dist.min.json   # 可发布的数据
 ## 发布到 npm
 
 ```shell
+# 切换回官方 registry
+npm config set registry https://registry.npmjs.org
+
 # 1. 登录 npm（如果没有账号，先去 npmjs.com 注册）
 npm login
 
-# 2. 检查包名是否可用
+# 2. 检查包名是否可用（仅第一次发布时，检查一下，以避免冲突）
 npm search china-administrative-divisions-json
 
 # 3. 发布
 npm publish
 
-# 如果是第一次发布，可能需要
-npm publish --access public
+# 还原registry加速地址
+npm config set registry https://registry.npmmirror.com
 ```

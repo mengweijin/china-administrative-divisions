@@ -28,7 +28,7 @@
   "main": "index.js",
   "module": "index.js",
   "name": "china-administrative-divisions-json",
-  "private": true,
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/mengweijin/china-administrative-divisions"
@@ -37,5 +37,5 @@
     "build": "node build.js"
   },
   "type": "module",
-  "version": "2026.01"
+  "version": "2026.1.1"
 }
