@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"christian-kohler.path-intellisense",
+		"warmthsea.vscode-custom-code-color",
+		"vscode-icons-team.vscode-icons",
+		"mikestead.dotenv",
+		"eamodio.gitlens",
+		"biomejs.biome",
+	]
+}

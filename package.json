@@ -1,0 +1,41 @@
+{
+  "author": "mengweijin",
+  "description": "中国行政区划（省、市、区/县）JSON 数据。",
+  "devDependencies": {
+    "@biomejs/biome": "^2.3.13"
+  },
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "require": "./index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "./data/data.min.json",
+    "README.md"
+  ],
+  "keywords": [
+    "China",
+    "administrative",
+    "division",
+    "区划信息",
+    "省市区县",
+    "JSON数据"
+  ],
+  "license": "Apache 2.0",
+  "main": "index.js",
+  "module": "index.js",
+  "name": "china-administrative-divisions-json",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mengweijin/china-administrative-divisions"
+  },
+  "scripts": {
+    "build": "node build.js"
+  },
+  "type": "module",
+  "version": "2026.01"
+}
