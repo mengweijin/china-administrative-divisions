@@ -1,24 +1,27 @@
 # China administrative divisions
 
 <p align="center">
-  <a target="_blank" href="https://github.com/mengweijin/china-administrative-divisions">
-		<img src="https://img.shields.io/badge/repo-Github-purple" />
-	</a>
-  <a target="_blank" href="https://gitee.com/mengweijin/china-administrative-divisions">
+    <a target="_blank" href="https://github.com/mengweijin/china-administrative-divisions">
+        <img src="https://img.shields.io/badge/repo-Github-purple" />
+    </a>
+    <a target="_blank" href="https://gitee.com/mengweijin/china-administrative-divisions">
 		<img src="https://img.shields.io/badge/repo-码云 Gitee-purple" />
 	</a>
 	<a target="_blank" href="https://www.npmjs.com/package/china-administrative-divisions-json">
 		<img src="https://img.shields.io/npm/v/china-administrative-divisions-json.svg" />
 	</a>
-  <a target="_blank" href="https://github.com/mengweijin/china-administrative-divisions/blob/master/LICENSE">
+	<a target="_blank" href="https://www.npmjs.com/package/china-administrative-divisions-json">
+		<img src="https://img.shields.io/npm/dw/china-administrative-divisions-json" />
+	</a>
+    <a target="_blank" href="https://github.com/mengweijin/china-administrative-divisions/blob/master/LICENSE">
 		<img src="https://img.shields.io/badge/license-Apache2.0-blue.svg" />
 	</a>
-  <a target="_blank" href="https://gitee.com/mengweijin/china-administrative-divisions/stargazers">
+    <a target="_blank" href="https://gitee.com/mengweijin/china-administrative-divisions/stargazers">
 		<img src="https://gitee.com/mengweijin/china-administrative-divisions/badge/star.svg?theme=dark" alt='gitee star'/>
 	</a>
-  <a href='https://gitee.com/mengweijin/china-administrative-divisions/members'>
+    <a href='https://gitee.com/mengweijin/china-administrative-divisions/members'>
     <img src='https://gitee.com/mengweijin/china-administrative-divisions/badge/fork.svg?theme=dark' alt='gitee fork'>
-  </a>
+    </a>
 	<a target="_blank" href='https://github.com/mengweijin/china-administrative-divisions'>
 		<img src="https://img.shields.io/github/stars/mengweijin/china-administrative-divisions?style=social" alt="github star"/>
 	</a>
