@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/npm/v/china-administrative-divisions-json.svg" />
 	</a>
 	<a target="_blank" href="https://www.npmjs.com/package/china-administrative-divisions-json">
-		<img src="https://img.shields.io/npm/dw/china-administrative-divisions-json" />
+		<img src="https://img.shields.io/npm/dm/china-administrative-divisions-json" />
 	</a>
     <a target="_blank" href="https://github.com/mengweijin/china-administrative-divisions/blob/master/LICENSE">
 		<img src="https://img.shields.io/badge/license-Apache2.0-blue.svg" />
