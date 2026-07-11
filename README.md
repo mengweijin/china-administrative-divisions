@@ -84,3 +84,7 @@ import chinaAdministrativeDivisionJson from "china-administrative-divisions-json
 ## 后端使用
 
 后端可直接从目录下获取 `./data/data.min.json` 文件，放到自己的工程里，然后读取使用。
+
+## 参考
+
+[全国行政区划信息查询平台](http://xzqh.mca.gov.cn/map)
